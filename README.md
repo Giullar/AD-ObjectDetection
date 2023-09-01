@@ -3,3 +3,5 @@ Personal project concerning the development of a deep learning model to perform 
 
 The dataset used is taken from:
 https://public.roboflow.com/object-detection/self-driving-car
+
+Project status: Unfinished (work in progress)
